@@ -2,4 +2,4 @@
 Estudo criação de repositório Git/Github
 
 ## Links Úteis.
-[Sintaxe Basica Marcdown](https://www.markdownguide.org/)
+[Sintaxe Basica Markdown](https://www.markdownguide.org/)
